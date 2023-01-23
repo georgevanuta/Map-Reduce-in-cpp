@@ -19,8 +19,8 @@
 
 ## How to run?
 
-> \> make
-> \> ./tema1 <NR_MAPPERS> <NR_REDUCERS> <TEST_FILE_PATH>
+> \> make \
+> \> ./tema1 <NR_MAPPERS> <NR_REDUCERS> <TEST_FILE_PATH> \
 > \> make clean
 
 ## Perfect Numbers
