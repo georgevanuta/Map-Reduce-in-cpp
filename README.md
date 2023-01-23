@@ -82,6 +82,6 @@ between the *mappers*, which grants a better **speedup**.
 
 ## Score Output
 
-`Scor scalabilitate: 70/70`
-`Scor corectitudine: 50/50`
+`Scor scalabilitate: 70/70` \
+`Scor corectitudine: 50/50` \
 `Scor total:       120/120`
