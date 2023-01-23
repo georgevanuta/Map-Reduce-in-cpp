@@ -1,8 +1,5 @@
 # Map-Reduce in c++ using Pthreads
 
-`Name: Vănuță George-Andrei`
-`Group: 334CB`
-
 ## Table of Contents
 
 - [Map-Reduce in c++ using Pthreads](#map-reduce-in-c-using-pthreads)
