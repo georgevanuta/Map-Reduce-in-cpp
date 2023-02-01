@@ -12,6 +12,7 @@
   - [Synchronisation](#synchronisation)
     - [*Barrier*](#barrier)
     - [*Mutex*](#mutex)
+    - [Genericness](#genericness)
   - [Score Output](#score-output)
 
 ## How to run?
@@ -76,6 +77,10 @@ processing a file, no other *mapper* will try to process it again.
 a file has been processed / is being processed, achieves a dynamic splitting of the files
 between the *mappers*, which grants a better **speedup**.
 - This resource is shared between all *mappers* by reference.
+
+## Genericness
+
+This part is explained in the [`README_BONUS.md`](/README_BONUS.md) file.
 
 ## Score Output
 
