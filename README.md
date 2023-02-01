@@ -12,7 +12,7 @@
   - [Synchronisation](#synchronisation)
     - [*Barrier*](#barrier)
     - [*Mutex*](#mutex)
-    - [Genericness](#genericness)
+  - [Genericness](#genericness)
   - [Score Output](#score-output)
 
 ## How to run?
